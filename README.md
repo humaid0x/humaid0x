@@ -9,8 +9,7 @@
 
 - 💬 Ask me about anything **I am happy to help**
 
-
-- 📄 Know about my experiences [Resume ✨](https://docs.google.com/document/d/1RhKHMJzAZk5CxVbRp5sZttgGipV1QtWC/){:target="_blank"}.
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RhKHMJzAZk5CxVbRp5sZttgGipV1QtWC/" target="_blank">Resume ✨</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
