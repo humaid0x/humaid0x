@@ -10,7 +10,7 @@
 - 💬 Ask me about anything **I am happy to help**
 
 
-- 📄 Know about my experiences [Resume ✨](https://github.com/humaid0x/humaid0x/blob/6e9f997ea9a7dab0de23a2a9507266daa33881dd/humaid-resume.pdf)
+- 📄 Know about my experiences [Resume ✨](https://docs.google.com/document/d/1RhKHMJzAZk5CxVbRp5sZttgGipV1QtWC/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
