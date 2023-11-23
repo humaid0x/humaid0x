@@ -10,7 +10,7 @@
 - 💬 Ask me about anything **I am happy to help**
 
 
-- 📄 Know about my experiences [Resume ✨](https://docs.google.com/document/d/1RhKHMJzAZk5CxVbRp5sZttgGipV1QtWC/)
+- 📄 Know about my experiences [Resume ✨](https://docs.google.com/document/d/1RhKHMJzAZk5CxVbRp5sZttgGipV1QtWC/){:target="_blank"}.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
